@@ -1,0 +1,141 @@
+
+Using QREL file as QREL.txt
+Using TREC file as crawl_score.txt
+
+
+For Query 151801 following are the statistics:
+    Retrieved Documents: 200
+    Original Relevant Documents: 26
+    Retrieved Relevant Documents: 26
+
+Precision for Top K Documents for:
+	K = 5		0.6
+	K = 10		0.3
+	K = 20		0.4
+	K = 50		0.44
+	K = 100		0.24
+
+
+Recall for Top K Documents for:
+	K = 5		0.115384615385
+	K = 10		0.115384615385
+	K = 20		0.307692307692
+	K = 50		0.846153846154
+	K = 100		0.923076923077
+
+
+F1 Measure for Top K Documents for:
+	K = 5		0.193548387097
+	K = 10		0.166666666667
+	K = 20		0.347826086957
+	K = 50		0.578947368421
+	K = 100		0.380952380952
+
+Average R-Precision over Query 151801: 0.384615384615
+Average Precision over Query 151801: 0.41547088837
+Average nDCG over Query 151801: 0.758945305517
+
+
+For Query 151802 following are the statistics:
+    Retrieved Documents: 200
+    Original Relevant Documents: 10
+    Retrieved Relevant Documents: 10
+
+Precision for Top K Documents for:
+	K = 5		0.0
+	K = 10		0.1
+	K = 20		0.05
+	K = 50		0.06
+	K = 100		0.07
+
+
+Recall for Top K Documents for:
+	K = 5		0.0
+	K = 10		0.1
+	K = 20		0.1
+	K = 50		0.3
+	K = 100		0.7
+
+
+F1 Measure for Top K Documents for:
+	K = 5		0.0
+	K = 10		0.1
+	K = 20		0.0666666666667
+	K = 50		0.1
+	K = 100		0.127272727273
+
+Average R-Precision over Query 151802: 0.1
+Average Precision over Query 151802: 0.0681178678433
+Average nDCG over Query 151802: 0.325560170449
+
+
+For Query 151803 following are the statistics:
+    Retrieved Documents: 200
+    Original Relevant Documents: 173
+    Retrieved Relevant Documents: 172
+
+Precision for Top K Documents for:
+	K = 5		1.0
+	K = 10		0.9
+	K = 20		0.9
+	K = 50		0.92
+	K = 100		0.94
+
+
+Recall for Top K Documents for:
+	K = 5		0.028901734104
+	K = 10		0.0520231213873
+	K = 20		0.104046242775
+	K = 50		0.265895953757
+	K = 100		0.543352601156
+
+
+F1 Measure for Top K Documents for:
+	K = 5		0.0561797752809
+	K = 10		0.0983606557377
+	K = 20		0.186528497409
+	K = 50		0.412556053812
+	K = 100		0.688644688645
+
+Average R-Precision over Query 151803: 0.924855491329
+Average Precision over Query 151803: 0.921175172537
+Average nDCG over Query 151803: 0.921940057763
+
+
+-------------------------------------------------------------------------------
+
+
+For all 3 Queries following are the statistics:
+    Retrieved Documents: 600
+    Original Relevant Documents: 209
+    Retrieved Relevant Documents: 208
+
+Average Precision for Top K Documents for:
+	K = 5		0.533333333333
+	K = 10		0.433333333333
+	K = 20		0.45
+	K = 50		0.473333333333
+	K = 100		0.416666666667
+
+
+Average Recall for Top K Documents for:
+	K = 5		0.0480954498296
+	K = 10		0.0891359122573
+	K = 20		0.170579516822
+	K = 50		0.470683266637
+	K = 100		0.722143174744
+
+
+Average F1 Measure for Top K Documents for:
+	K = 5		0.0832427207926
+	K = 10		0.121675774135
+	K = 20		0.200340417011
+	K = 50		0.363834474078
+	K = 100		0.398956598957
+
+
+
+Average R-Precision over all queries: 0.469823625315
+Average Precision over all queries: 0.468254642917
+Average nDCG over all queries: 0.66881517791
+

@@ -1,0 +1,10 @@
+{
+  "ap_streamed_final": {
+    "total_docs": 84678,
+    "stats": {
+      "avg_doc_length": 241.88430288858973,
+      "total_tokens": 20482279,
+      "vocab_len": 178081
+    }
+  }
+}

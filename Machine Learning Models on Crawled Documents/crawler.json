@@ -1,0 +1,10 @@
+{
+  "backup_vs": {
+    "total_docs": 34539,
+    "stats": {
+      "avg_doc_length": 4101.587162338226,
+      "total_tokens": 141664719,
+      "vocab_len": 1250266
+    }
+  }
+}
